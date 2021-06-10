@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>img/Excel.png</file>
+    <file>img/word.png</file>
+    <file>img/运行.png</file>
+    <file>img/bp2.jpg</file>
+    <file>img/bp.png</file>
+    <file>img/关闭.png</file>
+  </qresource>
+</RCC>
